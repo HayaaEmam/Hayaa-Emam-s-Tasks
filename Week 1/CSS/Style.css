@@ -1,0 +1,117 @@
+body {
+    background-color: #1584C4;
+    background-image: url(../IMAGES/Picture1.png);
+    background-size: 550px;
+    width: 1440px;
+    height:  1024px;
+}
+
+.h1-1 {
+    font-family: 'Press Start 2P';
+    font-size: 83px;
+    font-weight: 400;
+    line-height: 83px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 249px;
+    left: 589px;
+    top: 163px;
+    text-shadow: 13px 0px #0C7ABE;
+}
+
+
+
+
+/**************Page 1**************/
+.div-1 {
+    background-color: #D8B618;
+    border-radius: 100%;
+    width: 194px;
+    height: 194px;
+    position: absolute;
+    top: 500px;
+    left: 623px
+}
+
+.div-2 {
+    width: 0;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-left: 80px solid #D9D9D9;
+    border-bottom: 40px solid transparent;
+    border-radius: 4px;
+    position: absolute;
+    top: 57px;
+    left: 65px
+}
+
+
+
+
+/**************Page 2**************/
+.div-3 {
+    background-color: #D8B618;
+    border-radius: 42.5px;
+    border: 10px solid #BDA019;
+    width: 406px;
+    height: 85px;
+    position: absolute;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+    left: 516px;
+}
+
+.div-3-1 {
+    position: absolute;
+    top: 500px;
+}
+
+.div-3-2 {
+    position: absolute;
+    top: 609px;
+
+}
+
+.h2-1 {
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    font-size: 30.6255px;
+    text-align: center;
+    color: #E9E6E6;
+    margin: 18px;
+}
+
+
+
+
+/**************Page 3**************/
+.div-4 {
+    background-image: linear-gradient(to right, #D8B618, #DE5128);
+    width: 620px;
+    height: 620px;
+    margin: 139px auto 41px auto;
+    border-radius: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.div-5 {
+    width: 194px;
+    height: 193px;
+    border-radius: 8px;
+    background-color: #1584C4;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFFFFF;
+
+}
+
